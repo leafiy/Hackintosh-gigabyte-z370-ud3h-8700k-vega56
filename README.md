@@ -2,7 +2,9 @@
 
 ### Running System
 
-tested on `10.13.6` `10.14.3` `10.14.5beta4`
+tested on ~~`10.13.6` `10.14.3` `10.14.5beta4`~~ `10.14.5`
+
+10.14.5 has perfect vega56 supported now
 
 ### Devices
 
@@ -25,7 +27,7 @@ tested on `10.13.6` `10.14.3` `10.14.5beta4`
 
 `Thunderbolt` ok√
 
-`Sleep` almost ok√ (will took 30s - 1min)
+`Sleep` ok√
 
 `Usb/Lan Wakeup` ok√
 
