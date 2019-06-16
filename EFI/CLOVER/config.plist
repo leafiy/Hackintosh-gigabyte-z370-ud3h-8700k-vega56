@@ -200,12 +200,14 @@
 			<key>Generate</key>
 			<dict>
 				<key>CStates</key>
-				<false/>
+				<true/>
 				<key>PStates</key>
-				<false/>
+				<true/>
 				<key>PluginType</key>
 				<true/>
 			</dict>
+			<key>PluginType</key>
+			<string>1</string>
 		</dict>
 	</dict>
 	<key>Boot</key>
@@ -223,6 +225,17 @@
 		<key>Timeout</key>
 		<integer>3</integer>
 		<key>XMPDetection</key>
+		<false/>
+	</dict>
+	<key>CPU</key>
+	<dict>
+		<key>C2</key>
+		<false/>
+		<key>C4</key>
+		<false/>
+		<key>C6</key>
+		<false/>
+		<key>HWPEnable</key>
 		<false/>
 	</dict>
 	<key>Devices</key>
@@ -474,23 +487,23 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/17/2018</string>
+		<string>12/08/2017</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM81.88Z.F000.B00.1809171422</string>
+		<string>IMP11.88Z.0064.B30.1712081714</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2DFE22DDD8C</string>
+		<string>Mac-7BA5B2D9E42DDD94</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C078509024NAD</string>
+		<string>C02746102J9JG36UE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Mini-Aluminum</string>
+		<string>iMacPro-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
@@ -498,11 +511,11 @@
 		<key>EfiVersion</key>
 		<string>220.250.330.0.0</string>
 		<key>Family</key>
-		<string>Mac mini</string>
+		<string>iMac Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
+		<string>0xFD8FF53F</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF3F</string>
+		<string>0xFF9FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -510,13 +523,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x02</string>
+		<string>0xFFFF</string>
 		<key>ProductName</key>
-		<string>Macmini8,1</string>
+		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C07XT7Y0JYVX</string>
+		<string>C02VP04JHX87</string>
 		<key>SmUUID</key>
-		<string>A6EA2D1A-3C6F-4426-91A1-10879A152272</string>
+		<string>FAD1D1E0-64F4-4976-83F0-85F9683325B2</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
